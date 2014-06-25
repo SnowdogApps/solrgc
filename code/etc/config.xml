@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+  <modules>
+    <Snowdog_Solrgc>
+      <version>0.0.1</version>
+    </Snowdog_Solrgc>
+  </modules>
+  <global>
+    <models>
+      <solrgc>
+        <class>Snowdog_Solrgc_Model</class>
+      </solrgc>
+    </models>
+    <helpers>
+      <solrgc>
+        <class>Snowdog_Solrgc_Helper</class>
+      </solrgc>
+    </helpers>
+  </global>
+</config>

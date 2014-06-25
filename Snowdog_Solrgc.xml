@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+  <modules>
+    <Snowdog_Solrgc>
+      <active>true</active>
+      <codePool>local</codePool>
+      <depends>
+        <Netzarbeiter_GroupsCatalog2 />
+        <SolrBridge_Solrsearch />
+      </depends>
+    </Snowdog_Solrgc>
+  </modules>
+</config>
