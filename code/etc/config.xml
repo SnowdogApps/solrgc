@@ -11,6 +11,12 @@
       <solrgc>
         <class>Snowdog_Solrgc_Model</class>
       </solrgc>
+      <solrsearch>
+        <rewrite>
+          <data>Snowdog_Solrgc_Model_Solrsearch_Data</data>
+          <solr>Snowdog_Solrgc_Model_Solrsearch_Solr</solr>
+        </rewrite>
+      </solrsearch>
     </models>
     <helpers>
       <solrgc>
